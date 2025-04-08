@@ -77,10 +77,24 @@ const ProductPage = () => {
       {/* Announcement Bar */}
       <div className="announcement-bar">
         <div className="marquee">
-          <span>🎉 Special Offer: Get 25% off on all products! Use code: SHIFU25</span>
-          <span>🚚 Free Shipping on orders above $50</span>
-          <span>🔥 New Junior Genius Pack Available Now!</span>
-          <span>⏱️ Limited Time Offer - Buy 2 Get 1 Free</span>
+          <span>
+
+Never-before offers - Upto 25% OFF!</span>
+<span>
+
+Never-before offers - Upto 25% OFF!</span><span>
+
+Never-before offers - Upto 25% OFF!</span><span>
+
+Never-before offers - Upto 25% OFF!</span><span>
+
+Never-before offers - Upto 25% OFF!</span><span>
+
+Never-before offers - Upto 25% OFF!</span><span>
+
+Never-before offers - Upto 25% OFF!</span><span>
+
+Never-before offers - Upto 25% OFF!</span>
         </div>
       </div>
 
